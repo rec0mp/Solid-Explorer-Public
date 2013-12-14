@@ -750,5 +750,37 @@
 		<string name="Wifi_enabled">WiFi увімкнено</string>
 		<string name="Are_you_sure_you_want_to_restore_default_settings_for_this_item">Ви впевнені, що хочете відновити налаштування за замовчуванням для цього елемента?</string>
 
+ <!-- v 1.4.6 -->
+  <string name="no_wifi_available">WiFi недоступний. Бажаєте створити WiFi точку доступу на пристрої?</string>
+  <string name="disable_hotspot">Вимкнути точку доступу?</string>
+  <!-- v 1.5 -->
+  <string name="Any_type">Будь-якого типу</string>
+  <string name="Ubuntu_one_login">Вхід до Ubuntu One</string>
+  <string name="Master_password_has_been_changed">Головний пароль змінено</string>
+  <string name="Encryption">Шифрування</string>
+  <string name="Certificates">Сертифікати</string>
+  <string name="Trust_all_ssl_certificates">Довіряти усім SSL сертифікатам</string>
+  <string name="Use_at_your_own_risk">Використовувати на власний ризик</string>
+  <string name="Gestures">Жести</string>
+  <string name="Enable_list_zoom">Увімкнути збільшення списку</string>
+  <string name="Enable_list_zoom_summary">Увімкнувши,зможете масштабувати списки щипком</string>
+  <string name="Mediafire_login">Вхід до MediaFire</string>
+  <string name="No_master_password_set">Головний пароль не налаштовано</string>
+  <!-- v 1.5.1 -->
+  <string name="Ssl_certificate_is_not_trusted">Сертифікати не підписано довіреною стороною. Бажаєте прийняти їх?</string>
+  <string name="Issuer">Емітент</string>
+  <string name="Subject">Предмет</string>
+  <string name="Expiration">Дійсний</string>
+  <string name="Common_name">Загальна назва</string>
+  <string name="Organization">Організація</string>
+  <string name="Organizational_unit">Підрозділ</string>
+  <string name="Country">Країна</string>
+  <string name="State">Стан</string>
+  <string name="Algorithm">Алгоритм</string>
+  <string name="Exponent">Експонент</string>
+  <string name="Key_length">Довжина ключа</string>
+  <string name="Accept">Прийняти</string>
+  <string name="Rescan_all_media">Пересканувати все медіа</string>
+  <string name="Rescan_all_media_summary">Пересканувати все медіа, після кожної передачі файлів. Використовуйте, якщо галерея не оновлюється автоматично.</string>
 
 </resources>
