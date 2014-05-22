@@ -783,4 +783,9 @@
   <string name="Rescan_all_media">Пересканувати все медіа</string>
   <string name="Rescan_all_media_summary">Пересканувати все медіа, після кожної передачі файлів. Використовуйте, якщо галерея не оновлюється автоматично.</string>
 
+
+	<!--  v 1.5.7 -->
+	<string name="Chromecast_prompt">Від тепер Solid Explorer підтримує Chromecast! З розширенням Cast ви зможете відтворювати локальне або онлайн відео на вашому Chromecast. Бажаєте спробувати?</string>
+	<string name="Install_chromecast_plugin">Встановити розширення Chromecast</string>
+	<string name="Install_chromecast_summary">Відтворюйте локальне або онлайн відео на вашому Chromecast!</string>
 </resources>
